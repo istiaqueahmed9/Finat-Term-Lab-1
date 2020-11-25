@@ -1,0 +1,4 @@
+C:\Users\istiaque ahmed\source\repos\Final trem lab 1\Final trem lab 1\obj\Debug\netcoreapp3.1\Final trem lab 1.csprojAssemblyReference.cache
+C:\Users\istiaque ahmed\source\repos\Final trem lab 1\Final trem lab 1\obj\Debug\netcoreapp3.1\Final trem lab 1.AssemblyInfoInputs.cache
+C:\Users\istiaque ahmed\source\repos\Final trem lab 1\Final trem lab 1\obj\Debug\netcoreapp3.1\Final trem lab 1.AssemblyInfo.cs
+C:\Users\istiaque ahmed\source\repos\Final trem lab 1\Final trem lab 1\obj\Debug\netcoreapp3.1\Final trem lab 1.csproj.CoreCompileInputs.cache
